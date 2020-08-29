@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9618</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4b1ee394-75d5-46ec-995b-f79ea2d9be86</dc:identifier>
+        <dc:title>The Letters of Abelard and Heloise (Penguin Classics)</dc:title>
+        <dc:creator opf:file-as="Abelard, Peter" opf:role="aut">Peter Abelard</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.72.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-11-27T06:00:00+00:00</dc:date>
+        <dc:publisher>Penguin Books Ltd</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780141915951</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B002RI9ESC</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Peter Abelard&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2019-11-10T01:17:30+00:00" name="calibre:timestamp"/>
+        <meta content="Letters of Abelard and Heloise (Penguin Classics), The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Letters of Abelard and Heloise (Penguin Classics), The - Peter Abelard.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
